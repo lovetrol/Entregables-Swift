@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Chile en Nogada",
+    "description": "Se sirve un chile relleno de carne cubierta de salsa de nuez",
+    "price": 10.0,
+    "category": "Platillos",
+    "image_url": "http://localhost:8090/images/Chilemx.jpeg"
+  },
+  {
+    "id": 2,
+    "name": "Chilaquiles Verdes",
+    "description": "Tortilla dorada con salsa de chile de arbol, crema, pollo y queso",
+    "price": 8.0,
+    "category": "Platillos",
+    "image_url": "http://localhost:8090/images/chilaquiles-verdes.jpeg"
+  },
+  {
+    "id": 3,
+    "name": "Sopes con pollo",
+    "description": "Masa con forma concava donde se le enbarran frijoles y ponemos pollo y crema",
+    "price": 9.0,
+    "category": "Platillos",
+    "image_url": "http://localhost:8090/images/sopes-de-pollo.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Mole de olla",
+    "description": "Caldo de Res con salsa de chile seco, con verduras y trozos de carne de res ",
+    "price": 7.0,
+    "category": "Platillos",
+    "image_url": "http://localhost:8090/images/moledeolla.jpeg"
+  },
+  {
+    "id": 5,
+    "name": "Tacos Dorados",
+    "description": "Tacos de pollo dorados en aceite vegetal. Pollo de hoy!",
+    "price": 3.0,
+    "category": "Platillos",
+    "image_url": "http://localhost:8090/images/tacos_dorados.jpeg"
+  },
+  {
+    "id": 6,
+    "name": "Torta ahogada",
+    "description": "Torta rellena de carnitas cubierta de salsa de chile arbol seco",
+    "price": 5.0,
+    "category": "Platillos",
+    "image_url": "http://localhost:8090/images/Tortahogada.jpeg"
+  }
+]
